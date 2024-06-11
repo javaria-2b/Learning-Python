@@ -15,3 +15,19 @@ print(divide)
 #multiplication
 multiply = a * b
 print(multiply)
+
+#modulus
+modulus = a % b
+print(modulus)
+
+#power a^b
+power = a ** b
+print(power)
+
+
+#relational operators
+
+print(a==b)
+print(a!=b)
+print(a>=b)
+print(a<=b)
